@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871152991212864172/def87eadd02c42f88e2a7a5836f5a5b3/artifacts
+end_time: 1758864852033
+entry_point_name: ''
+experiment_id: '871152991212864172'
+lifecycle_stage: active
+run_id: def87eadd02c42f88e2a7a5836f5a5b3
+run_name: gaudy-ape-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758864845974
+status: 3
+tags: []
+user_id: codespace

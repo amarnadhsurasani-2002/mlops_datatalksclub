@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871152991212864172/e9f73af5cda6412c8614bce23882f86f/artifacts
+end_time: 1758865099607
+entry_point_name: ''
+experiment_id: '871152991212864172'
+lifecycle_stage: active
+run_id: e9f73af5cda6412c8614bce23882f86f
+run_name: puzzled-bear-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758864907096
+status: 3
+tags: []
+user_id: codespace

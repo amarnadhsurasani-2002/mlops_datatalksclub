@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871152991212864172/6ce8b40800954fc1b538ad29a785f354/artifacts
+end_time: 1758865314290
+entry_point_name: ''
+experiment_id: '871152991212864172'
+lifecycle_stage: active
+run_id: 6ce8b40800954fc1b538ad29a785f354
+run_name: thoughtful-bat-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758865140662
+status: 3
+tags: []
+user_id: codespace

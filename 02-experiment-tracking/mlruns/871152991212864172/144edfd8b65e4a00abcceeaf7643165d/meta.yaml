@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871152991212864172/144edfd8b65e4a00abcceeaf7643165d/artifacts
+end_time: 1758865679280
+entry_point_name: ''
+experiment_id: '871152991212864172'
+lifecycle_stage: active
+run_id: 144edfd8b65e4a00abcceeaf7643165d
+run_name: rogue-wren-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758865621747
+status: 3
+tags: []
+user_id: codespace

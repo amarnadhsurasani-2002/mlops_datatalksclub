@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871152991212864172/54010fd8cb654d0c80508e177a9c3910/artifacts
+end_time: 1758865483562
+entry_point_name: ''
+experiment_id: '871152991212864172'
+lifecycle_stage: active
+run_id: 54010fd8cb654d0c80508e177a9c3910
+run_name: indecisive-fly-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758865367092
+status: 3
+tags: []
+user_id: codespace

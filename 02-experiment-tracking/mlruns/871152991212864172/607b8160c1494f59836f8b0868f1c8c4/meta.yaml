@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871152991212864172/607b8160c1494f59836f8b0868f1c8c4/artifacts
+end_time: 1758864907062
+entry_point_name: ''
+experiment_id: '871152991212864172'
+lifecycle_stage: active
+run_id: 607b8160c1494f59836f8b0868f1c8c4
+run_name: auspicious-goat-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758864868852
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871152991212864172/a482800f0a88499c8337c5b66e8fc89a/artifacts
+end_time: 1758865554660
+entry_point_name: ''
+experiment_id: '871152991212864172'
+lifecycle_stage: active
+run_id: a482800f0a88499c8337c5b66e8fc89a
+run_name: receptive-snipe-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758865483604
+status: 3
+tags: []
+user_id: codespace

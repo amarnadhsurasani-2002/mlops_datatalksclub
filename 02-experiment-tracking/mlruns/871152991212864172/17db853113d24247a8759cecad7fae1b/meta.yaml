@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871152991212864172/17db853113d24247a8759cecad7fae1b/artifacts
+end_time: 1758865140630
+entry_point_name: ''
+experiment_id: '871152991212864172'
+lifecycle_stage: active
+run_id: 17db853113d24247a8759cecad7fae1b
+run_name: likeable-mare-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758865111477
+status: 3
+tags: []
+user_id: codespace

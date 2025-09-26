@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871152991212864172/4e18c0f99b1c4ca0bc67031d37e3d946/artifacts
+end_time: 1758865621709
+entry_point_name: ''
+experiment_id: '871152991212864172'
+lifecycle_stage: active
+run_id: 4e18c0f99b1c4ca0bc67031d37e3d946
+run_name: honorable-worm-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758865554701
+status: 3
+tags: []
+user_id: codespace
